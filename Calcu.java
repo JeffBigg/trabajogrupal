@@ -18,8 +18,9 @@ public class Calcu {
 
                 suma = n1 + n2;
                 System.out.println("la suma es "+ suma);
-                
-                else{
+                break
+                        
+               else{
                 System.out.println("ESCOJA EL NUMERO CORRECTO");
             }
     }
