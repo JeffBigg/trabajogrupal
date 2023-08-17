@@ -1,6 +1,6 @@
 
 package calcu;
-
+import java.util.Scanner;
 public class Calcu {
 
     
